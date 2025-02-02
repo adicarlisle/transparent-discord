@@ -11,9 +11,6 @@ A BetterDiscord plugin that adds customizable transparency to Discord.
 - [Support](docs/README.md#support)
 - [License](LICENSE)
 
-## Preview
-![TransparentDiscord Preview](docs/assets/preview.png)
-
 ## Features at a Glance
 - Adjustable window transparency
 - Customizable opacity for different Discord sections
