@@ -1,0 +1,29 @@
+{
+  "name": "transparent-discord",
+  "version": "1.0.0",
+  "description": "A BetterDiscord plugin that adds customizable transparency to Discord",
+  "author": "adicarlisle",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adicarlisle/transparent-discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adicarlisle/transparent-discord/issues"
+  },
+  "homepage": "https://github.com/adicarlisle/transparent-discord#readme",
+  "scripts": {
+    "build": "cp src/plugins/transparent-discord.plugin.js dist/",
+    "dev": "nodemon --watch src -e js --exec 'npm run build'",
+    "prepare": "mkdir -p dist"
+  },
+  "keywords": [
+    "betterdiscord",
+    "discord",
+    "plugin",
+    "transparency"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
