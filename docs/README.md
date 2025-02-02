@@ -73,10 +73,6 @@ npm run build
 npm run dev
 ```
 
-## Screenshots
-
-[Screenshots will be added here]
-
 ## Support
 
 If you encounter any issues, please:
